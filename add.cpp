@@ -8,7 +8,7 @@ int main(){
 cin>> x >> y >> endl;
 cout<<"the addition result="<<endl;
 cout<< x+y;
-	
+cout<< endl;	
 	return 0;
 	
 }
